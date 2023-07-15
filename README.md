@@ -1,7 +1,3 @@
-# Binary_image_classifier
-This repo contains a possitive/negative image classifier
-Here is an .md file generated from the README content:
-
 # Positive/Negative Image Classifier
 This is a machine learning project to classify images as either positive or negative.
 
